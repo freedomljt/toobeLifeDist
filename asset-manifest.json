@@ -1,0 +1,18 @@
+{
+  "/vendors.css": "/vendors.300442bb.chunk.css",
+  "/vendors.js": "/vendors.585693ab.async.js",
+  "/layouts__BasicLayout.css": "/layouts__BasicLayout.c36fb5db.chunk.css",
+  "/layouts__BasicLayout.js": "/layouts__BasicLayout.c5127930.async.js",
+  "/p__404.js": "/p__404.10f31474.async.js",
+  "/p__User__Login.css": "/p__User__Login.9d74ece2.chunk.css",
+  "/p__User__Login.js": "/p__User__Login.42ca73fc.async.js",
+  "/p__User__models__register.js.js": "/p__User__models__register.js.3755c2b6.async.js",
+  "/p__Weight__Weight.js": "/p__Weight__Weight.86b95ade.async.js",
+  "/p__Weight__models__weight.js.js": "/p__Weight__models__weight.js.ce5a9c5a.async.js",
+  "/p__Welcome__Welcome.js": "/p__Welcome__Welcome.59f869ed.async.js",
+  "/umi.css": "/umi.7fe6677b.css",
+  "/umi.js": "/umi.fdf47c43.js",
+  "/config.json": "/config.json",
+  "/index.html": "/index.html",
+  "/static/Login.less": "/static/login_bg.f5e33277.png"
+}
